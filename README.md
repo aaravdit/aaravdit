@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arvind  @aaravdit
+- 👋 Hi, I’m Arvind  
 - 👀 I’m interested in Software Developer
 - 🌱 I’m currently learning Full Stack development
 - 💞️ I’m looking to collaborate on ...
