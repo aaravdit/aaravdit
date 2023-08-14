@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Arvind  
-- 👀 I’m interested in Software Developer
-- 🌱 I’m currently learning Full Stack development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Arvind Tiwari
+- 👀 I’m junior Developer
+- 🌱 As an developer i love to build Web Appliication and Enterprise Application
+- 💞️ I’m committed for code 
+- 📫  to reach me directly through Linkedin
 
 <!---
 aaravdit/aaravdit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
