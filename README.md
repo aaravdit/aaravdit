@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arvind Tiwari
-- 👀 I’m junior Developer
-- 🌱 As an developer i love to build Web Appliication and Enterprise Application
+- 👀 I’m interested in Software Developer
+- 🌱 I am currently Learning 
 - 💞️ I’m committed for code 
 - 📫  to reach me directly through Linkedin
 
